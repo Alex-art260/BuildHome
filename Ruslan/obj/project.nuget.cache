@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgphAEcfLOcTbdheRzspNUXikKCEG7mbwrhWLfo2Xm8Hq/qboamN2vIGFVISKk5P71NYziuNABq5evEeWmMUew==",
+  "dgSpecHash": "Eibbhc9PmiowcwMdfn3xRH4DOVROR+CSTmwwgPa3Pgimd4rRZ2nFOJ9w9cS47QZLJ5rFDTu575Rz7VBD/fJt7g==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\Ruslan\\Ruslan\\Ruslan.csproj",
+  "projectFilePath": "C:\\Projects\\BuildShop\\buildShop\\Ruslan\\Ruslan.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

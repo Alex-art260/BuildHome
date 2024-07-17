@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Ruslan\\Ruslan\\Ruslan.csproj",
+      "projectUniqueName": "C:\\Projects\\BuildShop\\buildShop\\Ruslan\\Ruslan.csproj",
       "projectName": "Ruslan",
-      "projectPath": "C:\\Projects\\Ruslan\\Ruslan\\Ruslan.csproj",
+      "projectPath": "C:\\Projects\\BuildShop\\buildShop\\Ruslan\\Ruslan.csproj",
       "packagesPath": "C:\\Users\\НР\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Ruslan\\Ruslan\\obj\\",
+      "outputPath": "C:\\Projects\\BuildShop\\buildShop\\Ruslan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
